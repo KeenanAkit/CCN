@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'ccna.apps.CcnaConfig',
     'rest_framework',
-    'reactfrontend',
+    'frontend',
 ]
 
 MIDDLEWARE = [
